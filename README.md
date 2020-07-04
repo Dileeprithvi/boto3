@@ -12,9 +12,9 @@ Go to Pycharm Editor, click on the Settings -> Project Interpreter -> Click on +
 # Boto3 Core Concepts
 
 The core concepts of boto3 are: 
-* resource - higher level object to access AWS services
+* resource - higher level object to access AWS services - resource is like object operations
 
-* client - low level object to access AWS services - (dictionary Objects)
+* client - low level object to access AWS services - (dictionary Objects) - client is like dictionary and list operations
 
 * meta - object to enter into client object from resource object
 
